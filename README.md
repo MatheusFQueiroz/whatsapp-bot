@@ -36,7 +36,6 @@ Este projeto é um **bot do WhatsApp** desenvolvido com [`whatsapp-web.js`](http
 │   │   ├── responseRoutes.js        <-- Rotas para consultar respostas
 │   │── database/
 │   │   ├── responses.js             <-- Banco de dados em memória
-│── app.js                           <-- Configuração do Express
 │── server.js                        <-- Inicia a API
 ```
 
